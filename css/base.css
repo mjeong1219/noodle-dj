@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline-style: none;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+ul,
+li {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+}
+html {
+  font-size: 16px;
+}
+body {
+  /* font 셋팅 필요 */
+  font-family: 'Noto Sans KR', "TTWanjudaedunsancheB", sans-serif;
+  /* 앞서 배치되는 글꼴이 다 지원되면 뒤의 글꼴은 나오지 않음.*/
+  font-size: 12px;
+  line-height: 1.4;
+  /* line-height를 숫자만 쓸경우 폰트 사이즈의 배수를 뜻함. */
+  letter-spacing: -0.68px;
+  /* 보통은 원래 자간이 있기 때문에 -를 사용함. */
+  word-break: keep-all;
+  color: #000;
+  font-weight: 400;
+}
