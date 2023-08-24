@@ -1,5 +1,6 @@
 /* 하단 */
 .footer {
+    background-color: #1b1b1b;
 }
 
 @media all and (max-width: 1680px) {

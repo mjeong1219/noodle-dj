@@ -1,5 +1,6 @@
 /* 행사장 안내  */
 .map {
+    background-color: #041424;
 }
 @media all and (max-width: 1680px) {
 }

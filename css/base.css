@@ -33,3 +33,9 @@ body {
   color: #000;
   font-weight: 400;
 }
+
+h2{
+  font-size: 50px;
+  text-align: center;
+  font-weight: 700;
+}
